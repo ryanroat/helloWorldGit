@@ -1,4 +1,15 @@
-.basic {
-  background-color: lightblue;
-  color: rgb(216, 69, 16);
+html, body {
+  background-color: azure;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 14px;
+}
+
+.header {
+  font-size: 4em;
+  color: brown
+}
+
+#first {
+  font-size: 2em;
+  color: brown;
 }
